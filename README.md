@@ -1,2 +1,2 @@
 # OIBSIP
-Oiasis InfoByte Internship
+Virtual Internship offerd by Oiasis InfoByte 
